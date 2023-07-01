@@ -1,6 +1,6 @@
 # live chat with socket.io
 
-chat with instant update on all clients connected to the server, express and socket.io were used for the realization of this project.
+Chat with instant update on all clients connected to the server, express and socket.io were used for the realization of this project.
 
 ```lua
 socket.emit('message', (data) => {
@@ -8,4 +8,4 @@ socket.emit('message', (data) => {
 })
 ```
 
-a small piece of a bigger project
+A small piece of a bigger project
